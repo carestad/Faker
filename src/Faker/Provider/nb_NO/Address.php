@@ -104,9 +104,8 @@ class Address extends \Faker\Provider\Address
      * @see https://no.wikipedia.org/wiki/Norges_fylker
      */
     protected static $countyNames = [
-        'Østfold', 'Akershus', 'Oslo', 'Hedmark', 'Oppland', 'Buskerud', 'Vestfold', 'Telemark', 'Aust-Agder',
-        'Vest-Agder', 'Rogaland', 'Hordaland', 'Sogn og Fjordane', 'Møre og Romsdal', 'Sør-Trøndelag', 'Nord-Trøndelag',
-        'Nordland', 'Troms', 'Finnmark', 'Svalbard', 'Jan Mayen', 'Kontinentalsokkelen',
+        'Viken', 'Oslo', 'Innlandet', 'Vestfold og Telemark', 'Agder', 'Rogaland', 'Vestland', 'Møre og Romsdal',
+        'Trøndelag', 'Nordland', 'Troms og Finnmark', 'Svalbard', 'Jan Mayen', 'Kontinentalsokkelen',
     ];
 
     protected static $country = [
